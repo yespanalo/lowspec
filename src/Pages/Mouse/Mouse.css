@@ -1,0 +1,70 @@
+.first-banner-mouse {
+  position: relative;
+  border-bottom: 1px solid #47d62e;
+}
+.first-banner-mouse img {
+  width: 80%;
+}
+.first-banner-mouse h1 {
+  color: #47d62e;
+}
+.img-holder {
+  display: flex;
+  justify-content: center;
+}
+.mouse {
+  background-color: black;
+}
+.h2-holder {
+  position: absolute;
+  bottom: 10%;
+  left: 30%;
+  text-align: center;
+}
+.h2-holder h1 {
+  margin-bottom: 10px;
+}
+.h2-holder p {
+  color: grey;
+  width: 600px;
+  line-height: 25px;
+}
+.optical {
+  position: relative;
+  border-bottom: 1px solid #47d62e;
+}
+.optical img {
+  width: 100%;
+}
+.description-optical {
+  position: absolute;
+  top: 29%;
+  left: 10%;
+}
+.description-optical h1 {
+  color: #47d62e;
+  font-weight: 100;
+  font-size: 30px;
+}
+.description-optical p {
+  margin-top: 10px;
+  color: grey;
+  width: 450px;
+  line-height: 25px;
+}
+.waranty {
+  position: relative;
+}
+.waranty h2 {
+  color: #47d62e;
+  font-weight: 100;
+}
+.waranty p {
+  color: grey;
+  width: 600px;
+}
+.waranty-description {
+  position: absolute;
+  top: 35%;
+  right: 10%;
+}

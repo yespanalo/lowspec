@@ -1,0 +1,60 @@
+.home-page {
+  background-color: rgb(0, 0, 0);
+}
+.title-blackshark {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  display: flex;
+  justify-content: center;
+  color: #44d62c;
+  font-size: 26px;
+}
+.blackshark-pictures {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2.5em;
+}
+.bshark-picture {
+  height: 300px;
+  margin: 0%;
+  padding: 0;
+}
+.blackshark-features {
+  display: flex;
+  padding-bottom: 3em;
+  justify-content: center;
+  align-items: center;
+}
+.blackshark-features-logo {
+  margin-right: 5em;
+  text-align: center;
+}
+.blackshark-features-logo img {
+  height: 100px;
+}
+.blackshark-features-logo h2 {
+  color: rgb(172, 171, 171);
+  font-weight: 300;
+}
+.black-shark-buttons {
+  width: 250px;
+}
+
+.grey-banner {
+  background-color: #252525;
+  text-align: center;
+  color: white;
+  padding-bottom: 3em;
+  border-top: 1px solid #44d62c;
+}
+.grey-banner h1 {
+  padding-top: 3em;
+  padding-bottom: 1em;
+  font-weight: 300;
+  font-size: 1.75rem;
+}
+.grey-banner-items {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}

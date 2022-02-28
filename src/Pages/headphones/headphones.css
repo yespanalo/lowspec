@@ -1,0 +1,40 @@
+.headphones {
+  background-color: black;
+}
+.crossplatform img {
+  width: 100%;
+}
+.crossplatform {
+  border-bottom: 1px solid #47d62e;
+}
+.scout {
+  position: relative;
+  border-bottom: 1px solid #47d62e;
+}
+.scout h1 {
+  position: absolute;
+  top: 30%;
+  right: 5%;
+  color: #47d62e;
+  width: 600px;
+  font-style: italic;
+}
+.scout span {
+  color: white;
+  font-style: italic;
+}
+.karrigan {
+  position: relative;
+}
+.karrigan h1 {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  color: #47d62e;
+  width: 600px;
+  font-style: italic;
+}
+.karrigan span {
+  color: white;
+  font-style: italic;
+}

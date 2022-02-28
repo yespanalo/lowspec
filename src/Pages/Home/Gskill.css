@@ -1,0 +1,68 @@
+.g-skill-banner {
+  display: flex;
+}
+.g-skill-banner-left {
+  padding-top: 3em;
+  padding-bottom: 4em;
+  flex: 1;
+  background-color: black;
+  color: white;
+}
+.g-skill-banner-left h1 {
+  text-align: end;
+  padding-right: 2px;
+}
+.white-keyboard-img {
+  display: flex;
+  justify-content: end;
+  padding-top: 4em;
+  padding-bottom: 4em;
+  width: 107%;
+}
+.white-keyboard-img img {
+  padding-right: 7em;
+}
+.description {
+  padding-left: 2.5em;
+}
+.description h2 {
+  padding-bottom: 13px;
+}
+.description p {
+  color: grey;
+  width: 600px;
+  word-wrap: break-word;
+  word-spacing: 3px;
+}
+
+.g-skill-banner-left img {
+  width: 70%;
+  transform: rotate(8deg);
+}
+
+.g-skill-banner-right {
+  padding-top: 3em;
+  padding-bottom: 4em;
+  flex: 1;
+  background-color: white;
+  padding-left: 2px;
+}
+
+.description2 {
+  padding-left: 3em;
+  padding-top: 6em;
+}
+.description2 p {
+  color: grey;
+  width: 600px;
+  padding-bottom: 5em;
+}
+.description2 h2 {
+  padding-bottom: 13px;
+}
+
+.black-keyboard {
+  width: 70%;
+  transform: rotate(-20deg);
+  padding-left: 3em;
+}

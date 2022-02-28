@@ -1,0 +1,38 @@
+.monitor-background {
+  position: relative;
+
+  overflow: hidden;
+}
+.description-monitor {
+  color: white;
+  position: absolute;
+  top: 100px;
+  right: 150px;
+}
+.description-monitor p {
+  color: grey;
+  width: 400px;
+  word-wrap: break-word;
+  line-height: 25px;
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.description-monitor h2 {
+  color: white;
+  height: 675;
+  width: 1570;
+  font-weight: 100;
+  padding-bottom: 0;
+}
+.description-monitor a {
+  padding-bottom: 60px;
+  color: #44d62c;
+}
+.description-monitor a:after {
+  display: inline-block;
+  transform: scale(1, 1.4); /* W3C */
+  content: ">";
+  position: relative;
+  margin-left: 2px;
+}

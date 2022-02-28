@@ -1,0 +1,31 @@
+.footer {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #111111;
+}
+
+.social-media-links p {
+  color: #44d62c;
+  letter-spacing: 0.5px;
+  font-size: 12px;
+  font-weight: 600;
+}
+.social-icons {
+  width: 25px;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+.toend {
+  display: flex;
+  justify-content: end;
+}
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #44d62c;
+}
+.reserve {
+  color: grey;
+}

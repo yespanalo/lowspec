@@ -1,0 +1,66 @@
+.body {
+  overflow-x: hidden;
+}
+.ultragear-img img {
+  width: 100%;
+  border-bottom: 1px solid #44d62c;
+}
+.ultragear-img {
+  margin: 0px;
+  padding: 0px;
+}
+.monitor {
+  background-color: black;
+}
+.monitor-first-banner {
+  border-bottom: 1px solid #44d62c;
+}
+.monitor-first-banner h3 {
+  color: white;
+  font-weight: 100;
+}
+.monitor-first-banner h1 {
+  color: #44d62c;
+  font-size: 62px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.monitor-first-banner p {
+  color: white;
+  padding-left: 200px;
+  padding-right: 200px;
+  color: grey;
+  line-height: 23px;
+}
+.monitor-second-banner {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #44d62c;
+  border-top: 1px solid #44d62c;
+}
+.monitor-second-banner h1 {
+  color: #44d62c;
+  font-size: 45px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.monitor-second-banner p {
+  color: white;
+  padding-left: 200px;
+  padding-right: 200px;
+  color: grey;
+  line-height: 23px;
+}
+.monitor-first-banner {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.ultragear-img-two img {
+  width: 100%;
+}
+.ultragear-img-two {
+  border-bottom: 1px solid #44d62c;
+}
