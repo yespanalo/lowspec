@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lowspec/static/css/main.36ee5b6b.css",
+    "main.js": "/lowspec/static/js/main.9ccf20c7.js",
+    "static/media/deathadder2.png": "/lowspec/static/media/deathadder2.3b39559706f419091318.png",
+    "index.html": "/lowspec/index.html",
+    "main.36ee5b6b.css.map": "/lowspec/static/css/main.36ee5b6b.css.map",
+    "main.9ccf20c7.js.map": "/lowspec/static/js/main.9ccf20c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36ee5b6b.css",
+    "static/js/main.9ccf20c7.js"
+  ]
+}
